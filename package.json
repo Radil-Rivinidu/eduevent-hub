@@ -1,4 +1,7 @@
 {
+  "homepage": "https://Radil-Rivinidu.github.io/eduevent-hub",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
   "name": "eduevent_hub",
   "private": true,
   "version": "0.0.0",
